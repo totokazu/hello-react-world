@@ -1,3 +1,13 @@
+# create react appのやり方
+```
+npx create-react-app hello-world --template=typescript
+```
+hello-worldのところはお好きな名前をどうぞ
+--template=typescriptをつけることで、typescriptを使うためのテンプレートがつくられる。
+
+
+
+--------create react appしたときからかいてあったこと----------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
